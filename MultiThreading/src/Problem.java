@@ -1,6 +1,6 @@
 
 class Addition {
-    private int add = 0;
+    public int add = 0;
 
     void sum() {
         add = add + 1;
