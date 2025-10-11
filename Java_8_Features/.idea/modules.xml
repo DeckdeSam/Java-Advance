@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/ExecutorService/ExecutorService.iml" filepath="$PROJECT_DIR$/LambdaExpression/ExecutorService/ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java_8_Features.iml" filepath="$PROJECT_DIR$/.idea/Java_8_Features.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LamdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LamdaExpression.iml" />
+    </modules>
+  </component>
+</project>
