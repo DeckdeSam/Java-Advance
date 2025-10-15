@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/LambdaExpression/ExecutorService/ExecutorService.iml" filepath="$PROJECT_DIR$/LambdaExpression/ExecutorService/ExecutorService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LambdaExpression/FunctionalInterFace/FunctionalInterFace.iml" filepath="$PROJECT_DIR$/LambdaExpression/FunctionalInterFace/FunctionalInterFace.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java_8_Features.iml" filepath="$PROJECT_DIR$/.idea/Java_8_Features.iml" />
       <module fileurl="file://$PROJECT_DIR$/LambdaExpression/LamdaExpression.iml" filepath="$PROJECT_DIR$/LambdaExpression/LamdaExpression.iml" />
     </modules>

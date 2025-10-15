@@ -11,8 +11,12 @@ public class Driver {
 //        LambdaDemo lambdaDemo = ()-> System.out.println("I am override :");
 //        lambdaDemo.sum();
 
-        MultiAno multiAno = ()-> System.out.println("I am overrider");
-        multiAno.sum();
+//        MultiAno multiAno = ()-> System.out.println("I am overrider");
+//        multiAno.sum();
+//
+        LambdaDemo lambdaDemo=()-> System.out.println("I am sam ");
+        lambdaDemo.sum();
+
 
     }
 }
